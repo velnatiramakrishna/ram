@@ -11,7 +11,7 @@ public class Armstrong {
 		 System.out.println("enter the rem");
          int rem=sc.nextInt();
          System.out.println("enter the sum");
-         int sum=sc.nextInt();
+         int sum=sc.nextInt(); 
          System.out.println("enter the cube");
          int cube=sc.nextInt();
          int temp=num;
